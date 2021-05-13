@@ -7,6 +7,7 @@ from scipy import stats
 Authors: Ishaan Patel & Dylan Lopez
 CS 559 - Machine Learning Final Project
 '''
+# START: Ishaan Patel
 
 # calculates the distance between 2 arrays of the same length
 # returns a tuple of (distance, class of training sample)
@@ -225,3 +226,5 @@ def calls():
     func(5)
 
 calls()
+
+# END: Ishaan Patel
