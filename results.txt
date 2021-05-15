@@ -1,0 +1,609 @@
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=1
+Accuracy for trial 1: 27.88%
+Accuracy for trial 2: 69.65%
+Accuracy for trial 3: 70.17%
+Accuracy for trial 4: 71.49%
+Accuracy for trial 5: 66.84%
+Accuracy for trial 6: 71.54%
+Accuracy for trial 7: 28.0%
+Accuracy for trial 8: 73.15%
+Accuracy for trial 9: 30.92%
+Accuracy for trial 10: 70.34%
+
+Mean: 0.5799770510613884
+Standard Deviation: 0.1910291433338076
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=1
+Accuracy for trial 1: 28.23%
+Accuracy for trial 2: 69.36%
+Accuracy for trial 3: 69.59%
+Accuracy for trial 4: 69.19%
+Accuracy for trial 5: 68.1%
+Accuracy for trial 6: 72.23%
+Accuracy for trial 7: 27.02%
+Accuracy for trial 8: 71.2%
+Accuracy for trial 9: 31.44%
+Accuracy for trial 10: 69.19%
+
+Mean: 0.5755593803786575
+Standard Deviation: 0.18820924606681222
+Difference between means: 0.004417670682730912
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=3
+Accuracy for trial 1: 76.02%
+Accuracy for trial 2: 25.93%
+Accuracy for trial 3: 18.99%
+Accuracy for trial 4: 22.2%
+Accuracy for trial 5: 23.18%
+Accuracy for trial 6: 22.89%
+Accuracy for trial 7: 23.64%
+Accuracy for trial 8: 79.69%
+Accuracy for trial 9: 20.02%
+Accuracy for trial 10: 80.38%
+
+Mean: 0.3929432013769363
+Standard Deviation: 0.2587780882663832
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=3
+Accuracy for trial 1: 79.69%
+Accuracy for trial 2: 26.05%
+Accuracy for trial 3: 21.57%
+Accuracy for trial 4: 21.69%
+Accuracy for trial 5: 22.6%
+Accuracy for trial 6: 24.15%
+Accuracy for trial 7: 21.8%
+Accuracy for trial 8: 79.4%
+Accuracy for trial 9: 19.91%
+Accuracy for trial 10: 80.72%
+
+Mean: 0.3975903614457831
+Standard Deviation: 0.2635132549026102
+Difference between means: 0.004647160068846801
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=5
+Accuracy for trial 1: 83.65%
+Accuracy for trial 2: 84.74%
+Accuracy for trial 3: 83.88%
+Accuracy for trial 4: 83.99%
+Accuracy for trial 5: 84.51%
+Accuracy for trial 6: 80.9%
+Accuracy for trial 7: 81.53%
+Accuracy for trial 8: 85.6%
+Accuracy for trial 9: 15.78%
+Accuracy for trial 10: 83.53%
+
+Mean: 0.7681009753298909
+Standard Deviation: 0.20388372289648207
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=5
+Accuracy for trial 1: 82.04%
+Accuracy for trial 2: 86.35%
+Accuracy for trial 3: 82.96%
+Accuracy for trial 4: 85.94%
+Accuracy for trial 5: 81.24%
+Accuracy for trial 6: 80.26%
+Accuracy for trial 7: 80.38%
+Accuracy for trial 8: 85.54%
+Accuracy for trial 9: 13.48%
+Accuracy for trial 10: 84.11%
+
+Mean: 0.7623063683304647
+Standard Deviation: 0.21024660590262
+Difference between means: 0.005794606999426133
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=7
+Accuracy for trial 1: 88.01%
+Accuracy for trial 2: 88.12%
+Accuracy for trial 3: 88.87%
+Accuracy for trial 4: 86.63%
+Accuracy for trial 5: 10.56%
+Accuracy for trial 6: 85.54%
+Accuracy for trial 7: 14.92%
+Accuracy for trial 8: 85.6%
+Accuracy for trial 9: 87.66%
+Accuracy for trial 10: 85.26%
+
+Mean: 0.721170395869191
+Standard Deviation: 0.29728864143196504
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=7
+Accuracy for trial 1: 85.43%
+Accuracy for trial 2: 83.08%
+Accuracy for trial 3: 85.94%
+Accuracy for trial 4: 86.86%
+Accuracy for trial 5: 14.69%
+Accuracy for trial 6: 84.11%
+Accuracy for trial 7: 15.26%
+Accuracy for trial 8: 81.7%
+Accuracy for trial 9: 87.38%
+Accuracy for trial 10: 84.28%
+
+Mean: 0.7087205966724038
+Standard Deviation: 0.2799557766340392
+Difference between means: 0.012449799196787126
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=9
+Accuracy for trial 1: 88.98%
+Accuracy for trial 2: 89.33%
+Accuracy for trial 3: 88.81%
+Accuracy for trial 4: 89.85%
+Accuracy for trial 5: 88.41%
+Accuracy for trial 6: 88.98%
+Accuracy for trial 7: 91.57%
+Accuracy for trial 8: 13.43%
+Accuracy for trial 9: 9.41%
+Accuracy for trial 10: 9.35%
+
+Mean: 0.6581181870338497
+Standard Deviation: 0.3608462867969739
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=9
+Accuracy for trial 1: 90.53%
+Accuracy for trial 2: 87.89%
+Accuracy for trial 3: 86.98%
+Accuracy for trial 4: 87.26%
+Accuracy for trial 5: 88.24%
+Accuracy for trial 6: 86.75%
+Accuracy for trial 7: 89.33%
+Accuracy for trial 8: 15.15%
+Accuracy for trial 9: 16.24%
+Accuracy for trial 10: 9.98%
+
+Mean: 0.6583476764199656
+Standard Deviation: 0.34121551352636975
+Difference between means: 0.00022948938611588865
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=11
+Accuracy for trial 1: 90.25%
+Accuracy for trial 2: 93.12%
+Accuracy for trial 3: 91.45%
+Accuracy for trial 4: 7.52%
+Accuracy for trial 5: 92.31%
+Accuracy for trial 6: 7.92%
+Accuracy for trial 7: 93.29%
+Accuracy for trial 8: 90.19%
+Accuracy for trial 9: 89.27%
+Accuracy for trial 10: 90.59%
+
+Mean: 0.7458978772231785
+Standard Deviation: 0.334595254425392
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=11
+Accuracy for trial 1: 88.76%
+Accuracy for trial 2: 91.62%
+Accuracy for trial 3: 88.47%
+Accuracy for trial 4: 13.25%
+Accuracy for trial 5: 89.44%
+Accuracy for trial 6: 9.93%
+Accuracy for trial 7: 88.01%
+Accuracy for trial 8: 86.4%
+Accuracy for trial 9: 88.35%
+Accuracy for trial 10: 83.99%
+
+Mean: 0.7282271944922548
+Standard Deviation: 0.3068222510311951
+Difference between means: 0.017670682730923648
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=13
+Accuracy for trial 1: 6.43%
+Accuracy for trial 2: 94.15%
+Accuracy for trial 3: 94.26%
+Accuracy for trial 4: 93.86%
+Accuracy for trial 5: 8.49%
+Accuracy for trial 6: 6.94%
+Accuracy for trial 7: 93.57%
+Accuracy for trial 8: 3.73%
+Accuracy for trial 9: 4.99%
+Accuracy for trial 10: 90.99%
+
+Mean: 0.4974182444061962
+Standard Deviation: 0.43649671534653467
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=13
+Accuracy for trial 1: 9.18%
+Accuracy for trial 2: 88.76%
+Accuracy for trial 3: 89.16%
+Accuracy for trial 4: 90.48%
+Accuracy for trial 5: 10.21%
+Accuracy for trial 6: 11.36%
+Accuracy for trial 7: 91.91%
+Accuracy for trial 8: 9.47%
+Accuracy for trial 9: 5.45%
+Accuracy for trial 10: 87.55%
+
+Mean: 0.4935169248422261
+Standard Deviation: 0.40256551325868706
+Difference between means: 0.003901319563970107
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=15
+Accuracy for trial 1: 95.81%
+Accuracy for trial 2: 97.02%
+Accuracy for trial 3: 96.16%
+Accuracy for trial 4: 5.74%
+Accuracy for trial 5: 93.29%
+Accuracy for trial 6: 94.15%
+Accuracy for trial 7: 96.33%
+Accuracy for trial 8: 6.6%
+Accuracy for trial 9: 7.8%
+Accuracy for trial 10: 94.61%
+
+Mean: 0.6874928284566838
+Standard Deviation: 0.4062856695905089
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=15
+Accuracy for trial 1: 91.16%
+Accuracy for trial 2: 93.17%
+Accuracy for trial 3: 91.8%
+Accuracy for trial 4: 12.28%
+Accuracy for trial 5: 88.81%
+Accuracy for trial 6: 89.44%
+Accuracy for trial 7: 86.23%
+Accuracy for trial 8: 11.3%
+Accuracy for trial 9: 11.36%
+Accuracy for trial 10: 90.07%
+
+Mean: 0.6656339644291452
+Standard Deviation: 0.3599473351582395
+Difference between means: 0.02185886402753856
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=17
+Accuracy for trial 1: 95.93%
+Accuracy for trial 2: 7.52%
+Accuracy for trial 3: 3.84%
+Accuracy for trial 4: 95.41%
+Accuracy for trial 5: 93.75%
+Accuracy for trial 6: 95.75%
+Accuracy for trial 7: 89.9%
+Accuracy for trial 8: 94.78%
+Accuracy for trial 9: 98.51%
+Accuracy for trial 10: 97.59%
+
+Mean: 0.7729776247848535
+Standard Deviation: 0.35885153473359055
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=17
+Accuracy for trial 1: 90.76%
+Accuracy for trial 2: 10.73%
+Accuracy for trial 3: 8.84%
+Accuracy for trial 4: 89.39%
+Accuracy for trial 5: 92.37%
+Accuracy for trial 6: 88.87%
+Accuracy for trial 7: 91.39%
+Accuracy for trial 8: 91.91%
+Accuracy for trial 9: 93.57%
+Accuracy for trial 10: 90.76%
+
+Mean: 0.7485943775100401
+Standard Deviation: 0.3256698990577922
+Difference between means: 0.024383247274813447
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=19
+Accuracy for trial 1: 3.16%
+Accuracy for trial 2: 5.39%
+Accuracy for trial 3: 96.39%
+Accuracy for trial 4: 2.52%
+Accuracy for trial 5: 96.73%
+Accuracy for trial 6: 98.22%
+Accuracy for trial 7: 95.24%
+Accuracy for trial 8: 95.75%
+Accuracy for trial 9: 95.52%
+Accuracy for trial 10: 1.43%
+
+Mean: 0.5903614457831325
+Standard Deviation: 0.4566542542509749
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=19
+Accuracy for trial 1: 9.87%
+Accuracy for trial 2: 12.39%
+Accuracy for trial 3: 90.82%
+Accuracy for trial 4: 7.4%
+Accuracy for trial 5: 93.69%
+Accuracy for trial 6: 88.87%
+Accuracy for trial 7: 90.42%
+Accuracy for trial 8: 92.37%
+Accuracy for trial 9: 92.48%
+Accuracy for trial 10: 7.4%
+
+Mean: 0.5857142857142856
+Standard Deviation: 0.40297908602537874
+Difference between means: 0.004647160068846912
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=21
+Accuracy for trial 1: 1.95%
+Accuracy for trial 2: 5.79%
+Accuracy for trial 3: 95.93%
+Accuracy for trial 4: 97.82%
+Accuracy for trial 5: 96.27%
+Accuracy for trial 6: 97.53%
+Accuracy for trial 7: 95.24%
+Accuracy for trial 8: 3.33%
+Accuracy for trial 9: 98.74%
+Accuracy for trial 10: 99.02%
+
+Mean: 0.6916236374067699
+Standard Deviation: 0.42884547247791305
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=21
+Accuracy for trial 1: 8.66%
+Accuracy for trial 2: 8.78%
+Accuracy for trial 3: 91.8%
+Accuracy for trial 4: 93.46%
+Accuracy for trial 5: 90.99%
+Accuracy for trial 6: 93.4%
+Accuracy for trial 7: 90.94%
+Accuracy for trial 8: 7.06%
+Accuracy for trial 9: 90.48%
+Accuracy for trial 10: 93.86%
+
+Mean: 0.6694205393000575
+Standard Deviation: 0.3849589371859816
+Difference between means: 0.022203098106712393
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=23
+Accuracy for trial 1: 2.58%
+Accuracy for trial 2: 1.61%
+Accuracy for trial 3: 5.91%
+Accuracy for trial 4: 2.98%
+Accuracy for trial 5: 6.25%
+Accuracy for trial 6: 98.97%
+Accuracy for trial 7: 97.25%
+Accuracy for trial 8: 96.16%
+Accuracy for trial 9: 97.02%
+Accuracy for trial 10: 95.41%
+
+Mean: 0.5041308089500861
+Standard Deviation: 0.46572572922728844
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=23
+Accuracy for trial 1: 9.7%
+Accuracy for trial 2: 7.0%
+Accuracy for trial 3: 4.76%
+Accuracy for trial 4: 11.13%
+Accuracy for trial 5: 11.3%
+Accuracy for trial 6: 92.54%
+Accuracy for trial 7: 93.8%
+Accuracy for trial 8: 93.8%
+Accuracy for trial 9: 91.16%
+Accuracy for trial 10: 94.15%
+
+Mean: 0.5093516924842226
+Standard Deviation: 0.422024663510231
+Difference between means: 0.005220883534136522
+
+Opening and parsing file...
+Finished parsing data...
+Beginning 10 trials...
+
+Trial 1 complete...
+Trial 2 complete...
+Trial 3 complete...
+Trial 4 complete...
+Trial 5 complete...
+Trial 6 complete...
+Trial 7 complete...
+Trial 8 complete...
+Trial 9 complete...
+Trial 10 complete...
+
+Results for K Nearest Neighbour Classifier for orignal dimensions for k=25
+Accuracy for trial 1: 1.15%
+Accuracy for trial 2: 98.28%
+Accuracy for trial 3: 3.1%
+Accuracy for trial 4: 98.05%
+Accuracy for trial 5: 97.02%
+Accuracy for trial 6: 94.26%
+Accuracy for trial 7: 97.82%
+Accuracy for trial 8: 98.28%
+Accuracy for trial 9: 98.85%
+Accuracy for trial 10: 94.49%
+
+Mean: 0.7812966150315548
+Standard Deviation: 0.3803503423581223
+
+Results for K Nearest Neighbour Classifier after applying FLD for k=25
+Accuracy for trial 1: 9.58%
+Accuracy for trial 2: 92.08%
+Accuracy for trial 3: 8.78%
+Accuracy for trial 4: 96.44%
+Accuracy for trial 5: 90.65%
+Accuracy for trial 6: 88.58%
+Accuracy for trial 7: 91.74%
+Accuracy for trial 8: 92.43%
+Accuracy for trial 9: 93.75%
+Accuracy for trial 10: 90.36%
+
+Mean: 0.7543889845094663
+Standard Deviation: 0.3318930939925365
+Difference between means: 0.026907630522088444
+
+Accuracy List Before FLD:
+[0.5799770510613884, 0.3929432013769363, 0.7681009753298909, 0.721170395869191, 0.6581181870338497, 0.7458978772231785, 0.4974182444061962, 0.6874928284566838, 0.7729776247848535, 0.5903614457831325, 0.6916236374067699, 0.5041308089500861, 0.7812966150315548]
+
+Accuracy List After FLD:
+[0.5755593803786575, 0.3975903614457831, 0.7623063683304647, 0.7087205966724038, 0.6583476764199656, 0.7282271944922548, 0.4935169248422261, 0.6656339644291452, 0.7485943775100401, 0.5857142857142856, 0.6694205393000575, 0.5093516924842226, 0.7543889845094663]
+
+Difference List between with and without FLD:
+[0.004417670682730912, 0.004647160068846801, 0.005794606999426133, 0.012449799196787126, 0.00022948938611588865, 0.017670682730923648, 0.003901319563970107, 0.02185886402753856, 0.024383247274813447, 0.004647160068846912, 0.022203098106712393, 0.005220883534136522, 0.026907630522088444]
+
+K values used:
+[1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25]
