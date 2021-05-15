@@ -220,10 +220,28 @@ def func(k):
     # the difference between means to see if knn classifier accuracy changed
     diff = abs(post_mean - pre_mean)
     print("Difference between means: " + str(diff))
+    return(pre_mean, post_mean)
 
 # whatever function calls you want to do
 def calls():
-    func(5)
+    # a list of all accuracy measures for original dimensions
+    pre_list = []
+
+    # a list of all accuracy measures for reduced dimension
+    post_list = []
+
+    # a list of all k values
+    k_list = []
+
+    # covers k = 1, 3, 5, ..., 27
+    for k in range(1, 28, 2):
+        pre, post = func(k)
+        pre_list.append(pre)
+        post_list.append(post)
+        k_list.append(k)
+
+    # return a tuple containg of the above mentioned lists
+    return (pre_list, post_list, k)
 
 calls()
 
